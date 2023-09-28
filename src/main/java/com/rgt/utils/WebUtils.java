@@ -20,7 +20,7 @@ import org.testng.ITestContext;
 
 import com.aventstack.extentreports.ExtentTest;
 
-public class CommonUtils 
+public class WebUtils 
 {
 
 	public WebElement getLocators(WebDriver driver,String locatorType, String locatorValue)
